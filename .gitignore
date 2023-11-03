@@ -1,6 +1,6 @@
 # Ignore everything
 *
 # But not these files...
-!.cpp
-!.tpp
-!.hpp
+!*.cpp
+!*.tpp
+!*.hpp
