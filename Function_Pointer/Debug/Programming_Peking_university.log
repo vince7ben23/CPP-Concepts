@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中繼目錄 (Debug\) 包含從其他專案 (Programming_Peking_university.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  func_ptr.cpp
+  main.cpp
+  正在產生程式碼...
+  Programming_Peking_university.vcxproj -> D:\Asus WebStorage\vince7ben23@gmail.com\MySyncFolder\CPP_Project\Function_Pointer\Debug\Function_Pointer.exe
