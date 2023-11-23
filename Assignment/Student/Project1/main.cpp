@@ -22,8 +22,8 @@ class Student
 
 	public:
 		
-		Student(string name, int age, string num, const int *grade): \
-			name_(name), age_(age), num_(num), grade_(grade) \
+		Student(string name, int age, string num, const int *grade):
+			name_(name), age_(age), num_(num), grade_(grade)
 		{}
 		
 		/*
